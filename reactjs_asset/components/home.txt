@@ -1,0 +1,32 @@
+<div id="con" className="container-fluid">
+           <div className="row">
+             <div className="col "><h3 id="tab1">Aesop</h3></div>
+             <div className="col">
+               <h4 >  Summer skin: bright, exposed <br></br> 
+               often at risk
+               </h4>
+               </div>
+             <div className="col-6">
+               <img className="float-end" src="../img1.png" alt="imagefor1"/>
+             </div>
+          </div> 
+        </div> 
+        <div className="container">
+          <div className="row">
+        <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
+            <div className=" carousel-inner">
+              <div className="carousel-item active">
+                <img src="../car1.webp" className="img-fluid " alt="car2"/>
+                <img src="../car2.webp" className=" img-fluid" alt="car3"/>
+                <img src="../car3.webp" className="img-fluid" alt="car4"/>
+              </div>
+              <div className=" carousel-item">
+                <img src="../car2.webp" className=" car12" alt="car3"/>
+              </div>
+              <div className="carousel-item">
+                <img src="../car3.webp" className="car12" alt="car4"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
